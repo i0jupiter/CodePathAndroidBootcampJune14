@@ -1,0 +1,6 @@
+A simple to-do list tracking app:
+ * Load items from a file, if file exists
+ * Add an item to the list
+ * Delete an item
+ * Edit an item
+ * Persist item list to a file 
